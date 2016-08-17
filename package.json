@@ -1,0 +1,41 @@
+{
+  "name": "react-native-app-login",
+  "version": "1.0.0",
+  "description": "react-native-app-login",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuyen/react-native-app-login.git"
+  },
+  "keywords": [
+    "swiper",
+    "ProductTour",
+    "App",
+    "Intro",
+    "ios",
+    "android",
+    "react-component",
+    "react-native"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuyen/react-native-app-login/issues"
+  },
+  "homepage": "https://github.com/kuyen/react-native-app-login#readme",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "0.31.0",
+    "react-native-vector-icons": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.3",
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-jsx-a11y": "0.6.2",
+    "eslint-plugin-react": "4.3.0"
+  }
+}
